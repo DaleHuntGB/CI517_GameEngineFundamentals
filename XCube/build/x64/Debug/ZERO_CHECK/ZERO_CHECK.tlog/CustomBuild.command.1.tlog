@@ -1,0 +1,10 @@
+^C:\UNIVERSITY WORK\GAME ENGINE FUNDAMENTALS\XCUBE\BUILD\CMAKEFILES\4E61143FCFC2FFE08046EE26D14DF17C\GENERATE.STAMP.RULE
+setlocal
+"C:\University Work\Game Engine Fundamentals\CMake\bin\cmake.exe" "-SC:/University Work/Game Engine Fundamentals/XCube" "-BC:/University Work/Game Engine Fundamentals/XCube/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/University Work/Game Engine Fundamentals/XCube/build/MyGame.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

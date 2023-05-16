@@ -1,0 +1,3 @@
+C:/University Work/Game Engine Fundamentals/XCube/build/CMakeFiles/MyGame.dir
+C:/University Work/Game Engine Fundamentals/XCube/build/CMakeFiles/ALL_BUILD.dir
+C:/University Work/Game Engine Fundamentals/XCube/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\UNIVERSITY WORK\GAME ENGINE FUNDAMENTALS\XCUBE\CMAKELISTS.TXT
+setlocal
+"C:\University Work\Game Engine Fundamentals\CMake\bin\cmake.exe" "-SC:/University Work/Game Engine Fundamentals/XCube" "-BC:/University Work/Game Engine Fundamentals/XCube/build" --check-stamp-file "C:/University Work/Game Engine Fundamentals/XCube/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

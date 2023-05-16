@@ -1,0 +1,22 @@
+﻿  MyEngineSystem.cpp
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(42,15): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(43,15): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(48,15): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(49,15): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\University Work\Game Engine Fundamentals\XCube\src\engine\GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MyGame.vcxproj -> C:\University Work\Game Engine Fundamentals\XCube\build\Debug\MyGame.exe
